@@ -4,7 +4,7 @@ import {StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 const MainApp = ({navigation}) => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>{'Bottom Navigator'}</Text>
+      <Text style={styles.title}>{'Text Input'}</Text>
 
       <TouchableOpacity
         style={styles.button}
