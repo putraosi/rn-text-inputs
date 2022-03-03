@@ -32,7 +32,7 @@ const TextInput1 = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>{'Text Input'}</Text>
+      <Text style={styles.title}>{'Floating Input 1st'}</Text>
 
       <ScrollView showsVerticalScrollIndicator={false}>
         <FloatingInput
